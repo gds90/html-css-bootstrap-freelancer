@@ -19,6 +19,11 @@ header, .footer_bottom {
     height: 50px;
 }
 
+.container_80 {
+    width: 80%;
+    margin: 0 auto;
+}
+
 #start_bootstrap, #about{
     background-color: rgb(88,185, 157);
 }
