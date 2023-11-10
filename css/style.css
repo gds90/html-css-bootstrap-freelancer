@@ -9,7 +9,16 @@ header {
     height: 75px;
 }
 
+.content {
+    background-color: red;
+    height: 500px;
+}
+
 .content_sm {
-    background-color: aliceblue;
+    background-color: blue;
     height: 50px;
+}
+
+#start_bootstrap {
+    background-color: rgb(88,185, 157);
 }
