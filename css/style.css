@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    background-color: rgb(48,61,78) ;
+    height: 75px;
+}
+
+.content_sm {
+    background-color: aliceblue;
+    height: 50px;
+}
