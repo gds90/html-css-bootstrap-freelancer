@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-header {
+header, .footer_bottom {
     background-color: rgb(48,61,78) ;
     height: 75px;
 }
@@ -19,6 +19,10 @@ header {
     height: 50px;
 }
 
-#start_bootstrap {
+#start_bootstrap, #about{
     background-color: rgb(88,185, 157);
+}
+
+.footer_top {
+    background-color: rgb(62,82,106);
 }
