@@ -137,4 +137,31 @@ header, .footer_bottom {
     font-size: 14px;
 }
 
-
+@media screen and (min-width: 768px) {
+    .star:before {
+        width: 100px;
+    }
+    .star:after {
+        width: 100px;
+    }
+    .star.text-petrolium:before {
+        width: 100px;
+    }
+    .star.text-petrolium:after {
+        width: 100px;
+    }
+}
+@media screen and (min-width: 992px) {
+    .star:before {
+        width: 150px;
+    }
+    .star:after {
+        width: 150px;
+    }
+    .star.text-petrolium:before {
+        width: 150px;
+    }
+    .star.text-petrolium:after {
+        width: 150px;
+    }
+}
