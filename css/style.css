@@ -8,7 +8,15 @@ header, .footer_bottom {
     background-color: rgb(48,61,78) ;
     height: 75px;
 }
-
+.header_content {
+    display: flex;
+    align-items: center;
+}
+.header_title {
+    text-transform: uppercase;
+    color:#fff;
+    font-weight: 800;
+}
 .content {
     background-color: red;
     height: 500px;
@@ -30,4 +38,11 @@ header, .footer_bottom {
 
 .footer_top {
     background-color: rgb(62,82,106);
+}
+
+.bars {
+    color: grey;
+    border: 1px solid #fff;
+    padding: 2px 8px;
+    border-radius: 10%;
 }
